@@ -269,7 +269,6 @@ Machine Learning can serve as a useful decision-support tool for preliminary hea
 ## 📚 Dataset Source
 
 UCI Cleveland Heart Disease Dataset
-
 Official Source:
 https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
